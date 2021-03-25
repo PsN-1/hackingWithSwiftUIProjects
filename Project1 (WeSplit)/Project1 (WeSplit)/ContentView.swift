@@ -5,7 +5,6 @@
 //  Created by Pedro Neto on 21/03/21.
 //
 
-
 import SwiftUI
 
 struct ContentView: View {
@@ -22,21 +21,21 @@ struct ContentView: View {
         
         let tipSelection = Double(tipPercentages[tipPercentage])
         let orderAmount = Double(checkAmount) ?? 0
-
+        
         let tipValue = orderAmount / 100 * tipSelection
         let grandTotal = orderAmount + tipValue
         let amountPerPerson = grandTotal / peopleCount
-
+        
         return amountPerPerson
     }
     
     var totalCheck: Double {
         let tipSelection = Double(tipPercentages[tipPercentage])
         let orderAmount = Double(checkAmount) ?? 0
-
+        
         let tipValue = orderAmount / 100 * tipSelection
         let grandTotal = orderAmount + tipValue
-
+        
         return grandTotal
     }
     
@@ -51,7 +50,7 @@ struct ContentView: View {
                     }
                     HStack {
                         Text("Number of people: ")
-                        TextField("2", text: $numberOfPeople)
+                        TextField("1", text: $numberOfPeople)
                             .keyboardType(.numberPad)
                     }
                 }
@@ -80,9 +79,7 @@ struct ContentView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        Group {
-            ContentView()
-            ContentView()
-        }
+        ContentView()
     }
 }
+

@@ -2,6 +2,12 @@
 
 ## Challenges
 
+#### **_Finish project 1 - WeSplit_**
+
+*The challenge was to create a simple app to convert temperature units using the knowledge from the previous project*
+
+<img src="ProjectsImages/Challenge1_TempConverter_1.png" width="150" height="300">
+
 ___
 ## Projects 
 
