@@ -2,11 +2,25 @@
 
 ## Challenges
 
-#### **_Finish project 1 - WeSplit_**
+#### **_Finish Challenges - WeSplit_**
 
 *The challenge was to create a simple app to convert temperature units using the knowledge from the previous project*
 
 <img src="ProjectsImages/Challenge1_TempConverter_1.png" width="150" height="300">
+
+___
+#### **_Finish Milestone (Projects 1-3)_**
+
+*The challenge was to create a brain trainning game that challenges players to win or lose at rock, paper, scissors*
+
+* _Each turn of the game the app will randomly pick either rock, paper, or scissors._
+* _Each turn the app will either prompt the player to win or lose._
+* _The player must then tap the correct move to win or lose the game._
+* _If they are correct they score a point; otherwise they lose a point._
+* _The game ends after 10 questions, at which point their score is shown._
+
+<img src="ProjectsImages/Milestone_(Projects 1-3)_1.png" width="150" height="300">___
+<img src="ProjectsImages/Milestone_(Projects 1-3)_2.png" width="150" height="300">
 
 ___
 ## Projects 
