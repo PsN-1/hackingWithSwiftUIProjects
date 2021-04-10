@@ -52,3 +52,18 @@ ___
 <img src="ProjectsImages/Project2_(Guess_The_Flag)_2.png" width="150" height="300">
 
 ___    
+#### **_Finish project 4 - BetterRest_**
+
+*App that helps coffee drinkers get a good night’s sleep by asking them some questions*
+*Topics covered:*
+
+* _Core ML_
+* _Date, DatePicker, DateComponents and DateFormatter_
+* _Stepper_
+* _navigationBarItems_
+
+<img src="ProjectsImages/Project4_(BetterRest)_1.png" width="150" height="300">
+___    
+
+
+
