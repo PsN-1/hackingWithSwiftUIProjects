@@ -63,6 +63,21 @@ ___
 * _navigationBarItems_
 
 <img src="ProjectsImages/Project4_(BetterRest)_1.png" width="150" height="300">
+
+___    
+#### **_Finish project 5 - WordScramble_**
+
+*Game that shows players a random eight-letter word, and ask them to make words out of it*
+*Topics covered:*
+
+* _List_
+* _Bundle_
+* _onAppear_
+* _UITextChecker_
+
+<img src="ProjectsImages/Project5 (WordScramble)_1.png" width="150" height="300"> ___ 
+<img src="ProjectsImages/Project5 (WordScramble)_2.png" width="150" height="300">
+
 ___    
 
 
