@@ -79,6 +79,18 @@ ___
 <img src="ProjectsImages/Project5 (WordScramble)_2.png" width="150" height="300">
 
 ___    
+#### **_Finish project 6 - Animations_**
+
+*A whole chapter about the power of Animations*
+*Topics covered:*
+
+* _Animations_
+
+
+<img src="ProjectsImages/Project6_(Animations)_1.png" width="150" height="300"> ___ 
+<img src="ProjectsImages/Project6_(Animations)_2.mov" width="150" height="300">
+
+___    
 
 
 
