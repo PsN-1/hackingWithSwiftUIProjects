@@ -91,6 +91,18 @@ ___
 <img src="ProjectsImages/Project6_(Animations)_2.mov" width="150" height="300">
 
 ___    
+#### **_Finish project 7 - iExpense_**
+
+*Create a expenses tracking app*
+*Topics covered:*
+
+* _UserDefaults_
+* _Codable_
+* _sheet()_
+* _onDelete()_
+* _@ObservedObject_
+
+___    
 
 
 
