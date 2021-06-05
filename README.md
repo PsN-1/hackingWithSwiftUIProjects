@@ -101,8 +101,15 @@ ___
 * _sheet()_
 * _onDelete()_
 * _@ObservedObject_
-
 ___    
+#### **_Finish project 8 - Moonshot_**
 
+*Create a simple apple that shows the NASA'S Apollo missions and the Astronauts*
+*Topics covered:*
 
-
+* _GeometryReader_
+* _generics_
+* _ScrollView_
+* _NavigationLink_
+* _Codable_
+___    
